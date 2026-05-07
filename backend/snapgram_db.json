@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "travel_maria",
+      "email": "maria@snapgram.com",
+      "fullname": "Maria Gonzalez",
+      "password": "$2a$12$F2lXsv.PGx4.suEat8Tc8uRmVC8tAfB9GrxHA3T.d3v8J05nIH4Uy",
+      "avatar": "🌸",
+      "bio": "✈️ Explorer | 47 countries",
+      "website": "",
+      "is_verified": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 2,
+      "username": "foodie_chef",
+      "email": "chef@snapgram.com",
+      "fullname": "Ahmed Raza",
+      "password": "$2a$12$F2lXsv.PGx4.suEat8Tc8uRmVC8tAfB9GrxHA3T.d3v8J05nIH4Uy",
+      "avatar": "👨‍🍳",
+      "bio": "🍳 Executive Chef",
+      "website": "",
+      "is_verified": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 3,
+      "username": "fitness_pro",
+      "email": "sara@snapgram.com",
+      "fullname": "Sara Williams",
+      "password": "$2a$12$F2lXsv.PGx4.suEat8Tc8uRmVC8tAfB9GrxHA3T.d3v8J05nIH4Uy",
+      "avatar": "💪",
+      "bio": "🏋️ Personal Trainer",
+      "website": "",
+      "is_verified": 0,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 4,
+      "username": "art_by_alex",
+      "email": "alex@snapgram.com",
+      "fullname": "Alex Chen",
+      "password": "$2a$12$F2lXsv.PGx4.suEat8Tc8uRmVC8tAfB9GrxHA3T.d3v8J05nIH4Uy",
+      "avatar": "🎨",
+      "bio": "🖌️ Digital Artist",
+      "website": "",
+      "is_verified": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 5,
+      "username": "nature_shots",
+      "email": "nature@snapgram.com",
+      "fullname": "Liam Park",
+      "password": "$2a$12$F2lXsv.PGx4.suEat8Tc8uRmVC8tAfB9GrxHA3T.d3v8J05nIH4Uy",
+      "avatar": "🌿",
+      "bio": "📸 Wildlife Photographer",
+      "website": "",
+      "is_verified": 0,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 6,
+      "username": "maaz79",
+      "email": "maaz.096325@gmail.com",
+      "fullname": "Muhammad Maaz",
+      "password": "$2a$12$O/Arf..f3fQxAdVvYQqOB.S1TxX71XVr6pENH37fxvnCmxr.Gyu7m",
+      "avatar": "😎",
+      "bio": "",
+      "website": "",
+      "is_verified": 0,
+      "created_at": "2026-05-07T09:43:02.347Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "caption": "Golden hour in Santorini 🌅",
+      "emoji": "🌅",
+      "location": "Santorini, Greece",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "caption": "Hidden gem in Tuscany 🍷",
+      "emoji": "🍷",
+      "location": "Tuscany, Italy",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "caption": "My signature truffle pasta 🍝",
+      "emoji": "🍝",
+      "location": "Milan, Italy",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 4,
+      "user_id": 2,
+      "caption": "Street food tour Bangkok 🌶️",
+      "emoji": "🌶️",
+      "location": "Bangkok, Thailand",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 5,
+      "user_id": 3,
+      "caption": "Day 100 transformation 💪",
+      "emoji": "💪",
+      "location": "New York, USA",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 6,
+      "user_id": 4,
+      "caption": "Electric Dreams artwork ⚡",
+      "emoji": "⚡",
+      "location": "Tokyo, Japan",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 7,
+      "user_id": 5,
+      "caption": "Majestic eagle at sunrise 🦅",
+      "emoji": "🦅",
+      "location": "Alaska, USA",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 8,
+      "user_id": 5,
+      "caption": "Northern Lights finally! 🌌",
+      "emoji": "🌌",
+      "location": "Tromsø, Norway",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "post_id": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 2,
+      "user_id": 3,
+      "post_id": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "post_id": 3,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "post_id": 1,
+      "text": "Absolutely breathtaking! 😍",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 2,
+      "user_id": 3,
+      "post_id": 1,
+      "text": "The colors are unreal!",
+      "created_at": "2026-05-07T09:41:36.116Z"
+    }
+  ],
+  "follows": [
+    {
+      "id": 1,
+      "follower_id": 1,
+      "following_id": 2,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 2,
+      "follower_id": 1,
+      "following_id": 3,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 3,
+      "follower_id": 2,
+      "following_id": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 4,
+      "follower_id": 3,
+      "following_id": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    },
+    {
+      "id": 5,
+      "follower_id": 4,
+      "following_id": 1,
+      "created_at": "2026-05-07T09:41:36.116Z"
+    }
+  ],
+  "messages": [],
+  "notifications": [],
+  "saved_posts": [],
+  "_nextId": {
+    "users": 7,
+    "posts": 9,
+    "likes": 4,
+    "comments": 3,
+    "follows": 6,
+    "messages": 1,
+    "notifications": 1,
+    "saved": 1
+  }
+}
